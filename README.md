@@ -1,6 +1,5 @@
 <!-- ![header](header.png) -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0ArchLinux0%2F0archlinux0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0archlinux0)]
 <br>
 <br>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
@@ -56,3 +55,5 @@
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a><br>
 </p>
 <p align ="center"><a href="https://0archlinux0.github.io/" style="color:white;">visit my blog!</a></p>
+<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0archlinux0)]
