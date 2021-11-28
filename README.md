@@ -56,11 +56,15 @@
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a><br>
 </p>
-<p align ="center"><a href="https://0archlinux0.github.io/" style="color:white;">visit my blog!</a></p>
-<br>
+<p align ="center">
+  <a href="https://0archlinux0.github.io/" style="color:white;">visit my blog!</a>
+  <br>
+  [![MINJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=0archlinux0)](https://github.com/0ArchLinux0/0archlinux0)
+  <br>
+</p>
 
-[![MINJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=0archlinux0)](https://github.com/0ArchLinux0/0archlinux0)
-<br>
+
+
 
 
 
