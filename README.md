@@ -60,6 +60,11 @@
   <a href="https://0archlinux0.github.io/" style="color:white;">visit my blog!</a>
   <br><br>
   <a href="https://github.com/0ArchLinux0/0archlinux0"><img src="https://github-readme-stats.vercel.app/api?username=0archlinux0&show_icons=true&theme=tokyonight"></img></a>
+  <br><br>
+<!--   <a href="https://github.com/0ArchLinux0/0archlinux0"> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0archlinux0"></img>
+<!--    </a> -->
+<!--   [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
   <br>
 </p>
 
