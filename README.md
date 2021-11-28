@@ -45,14 +45,13 @@
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white"/>
+</p>
 <h3 align ="center">📞 Contact</h3>
 <p align="center">
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
