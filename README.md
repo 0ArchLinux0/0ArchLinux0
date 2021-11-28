@@ -56,4 +56,4 @@
 </p>
 <p align ="center"><a href="https://0archlinux0.github.io/" style="color:white;">visit my blog!</a></p>
 <br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0archlinux0)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0archlinux0)](https://github-readme-stats.vercel.app/api?username=0archlinux0)]
