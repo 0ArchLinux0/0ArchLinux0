@@ -1,5 +1,5 @@
 <!-- ![header](header.png) -->
-<h3 align="center"> 👋 Hi I'm MINJUN PARK</h3>
+<h3 align="center"> 👋 I'm Software Engineer, MINJUN PARK</h3>
 <h3 align='center'> </h3>
 <!-- <p align ="center">Software Engineer</p> -->
 
