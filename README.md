@@ -22,22 +22,22 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=plastic"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=plastic"/>
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=plastic&logo=mocha&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
