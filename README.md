@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=plastic&logo=mocha&logoColor=white"/>&nbsp;&nbsp;
-  
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white"/>&nbsp;&nbsp;
 </p>
