@@ -65,6 +65,6 @@
 
 [![MINJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=0archlinux0)](https://github.com/0ArchLinux0/0archlinux0)
 
-<img src="https://github-readme-stats.vercel.app/api?username=0archlinux0"><a href="https://github.com/0ArchLinux0/0archlinux0"></a></img>
+<a href="https://github.com/0ArchLinux0/0archlinux0"><img src="https://github-readme-stats.vercel.app/api?username=0archlinux0"></img></a>
 
 
