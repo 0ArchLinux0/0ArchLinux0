@@ -1,6 +1,6 @@
 <!-- ![header](header.png) -->
 <h3 align="center"> 👋 I'm Software Engineer, MINJUN PARK</h3>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg)
 <!-- <p align ="center">Software Engineer</p> -->
 
 
