@@ -39,12 +39,3 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white"/>&nbsp;&nbsp;
 </p>
-
-<h3 align="center">•••</h3>
-
-<div align="center">
-
-[![Generic badge](https://img.shields.io/badge/ToyProject_Kotto-orange.svg?&style=plastic&logo=github&logoColor=white&link=https://github.com/shindongyoun/Kotto)](https://github.com/shindongyoun/Kotto)
-[![Generic badge](https://img.shields.io/badge/ToyProject_Juso_batch-green.svg?&style=plastic&logo=github&logoColor=white&link=https://github.com/shindongyoun/AddressKotlinBatch)](https://github.com/shindongyoun/AddressKotlinBatch)
-[![Generic badge](https://img.shields.io/badge/KotlinStudy-blue.svg?&style=plastic&logo=github&logoColor=white&link=https://github.com/shindongyoun/koding_study)](https://github.com/shindongyoun/koding_study)
-</div>
