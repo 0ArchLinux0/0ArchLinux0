@@ -6,7 +6,6 @@
 </p>   
 <h3 align="center"> 👋 I'm Software Engineer, MINJUN PARK</h3>
 <br>
-<br>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
 <!-- <p align ="center">Software Engineer</p> -->
