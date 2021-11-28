@@ -44,3 +44,8 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"/>&nbsp;&nbsp;
 </p>
+
+<p align ="center">visit my blog! => [git blog] <https://0archlinux0.github.io/></p>
+<h4 align ="center">want to contact! => </h4>
+<a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>&nbsp;&nbsp;
+</p></a>
