@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/0ArchLinux0/0archlinux0"><img src="https://github-readme-stats.vercel.app/api?username=0archlinux0&show_icons=true&theme=tokyonight"></img></a>
 </p>   
-<h3 align="center"> 👋 I'm Software Engineer, MINJUN PARK</h3>
+<h3 align="center"> 👋 I'm MINJUN PARK</h3>
 <br>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
