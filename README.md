@@ -12,28 +12,28 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"/>
   
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=plastic&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=plastic"/>
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"/>
-</p>
+</p> -->
 <p align="center">
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
@@ -46,7 +46,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"/> -->
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
