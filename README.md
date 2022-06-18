@@ -9,8 +9,9 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
 <!-- <p align ="center">Machine Learning Engineer</p> -->
-
-<p align="center">![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)<p align="center">
+<p align="center">
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)
+  </p>
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white"/> -->
