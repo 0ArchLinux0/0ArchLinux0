@@ -10,7 +10,7 @@
 
 <!-- <p align ="center">Machine Learning Engineer</p> -->
 <p align="center">
-  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)
+<div>![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)</div>
 </p>
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
