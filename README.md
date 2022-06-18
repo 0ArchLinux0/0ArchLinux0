@@ -4,8 +4,7 @@
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"><img src="https://github-readme-stats.vercel.app/api?username=0archlinux0&show_icons=true&theme=tokyonight"></img></a> -->
 <!-- </p>    -->
-<h3 align="center"> Machine Learning Engineer</h3>
-<br>
+
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
 <!-- <p align="center"> -->
@@ -13,7 +12,9 @@
    <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
   </a>
 <!-- </p> -->
-
+<br>
+<h3 align="center"> Machine Learning Engineer</h3>
+<br>
 <!-- <p align="center"> -->
 <!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white"/> -->
@@ -57,14 +58,14 @@
 </p> -->
 <!-- <h3 align ="center">📞 Contact</h3> -->
 <!-- <h3>📞 Contact</h3> -->
-<!-- <p align="center"> -->
+<p align="center">
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/>
   <a href="https://ilikechicken.tistory.com/"><img src="https://img.shields.io/badge/-blog-blue">
-<!-- </p> -->
+</p>
 <!-- <p align ="center"> -->
-  <a href="https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a>
-  <br><br>
+<!--   <a href="https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a> -->
+<!--   <br><br> -->
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0archlinux0"></img> -->
 <!--    </a> -->
