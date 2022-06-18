@@ -1,16 +1,17 @@
 <!-- ![header](header.png) -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0ArchLinux0%2F0archlinux0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <!-- <br> -->
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"><img src="https://github-readme-stats.vercel.app/api?username=0archlinux0&show_icons=true&theme=tokyonight"></img></a> -->
-</p>   
+<!-- </p>    -->
 <h3 align="center"> Machine Learning Engineer</h3>
 <br>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
 <!-- <p align ="center">Machine Learning Engineer</p> -->
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)
 <p align="center">
-<div>![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)</div>
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)
 </p>
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
