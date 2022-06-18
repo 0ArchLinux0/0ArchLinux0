@@ -8,16 +8,11 @@
 <br>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
-<!-- <p align ="center">Machine Learning Engineer</p> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 <p align="center">
- <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://solved.ac/profile/0archlinux0)">
+   <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
+  </a>
 </p>
-<div>
-  ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)
-</div>
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
@@ -66,7 +61,7 @@
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a><br>
 </p>
 <p align ="center">
-  <a href="https://0archlinux0.github.io/" style="color:white;">visit my blog!</a>
+  <a href="https://0archlinux0.github.io/](https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a>
   <br><br>
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0archlinux0"></img> -->
