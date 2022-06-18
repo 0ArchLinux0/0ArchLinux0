@@ -7,11 +7,11 @@
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
-<!-- <p align="center"> -->
+<p align="center">
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://solved.ac/profile/0archlinux0)">
    <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
   </a>
-<!-- </p> -->
+</p>
 <br>
 <h3 align="center"> Machine Learning Engineer</h3>
 <br>
