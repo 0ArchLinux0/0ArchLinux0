@@ -1,14 +1,14 @@
 <!-- ![header](header.png) -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0ArchLinux0%2F0archlinux0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <!-- <br> -->
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"><img src="https://github-readme-stats.vercel.app/api?username=0archlinux0&show_icons=true&theme=tokyonight"></img></a> -->
 <!-- </p>    -->
 <h3 align="center"> Machine Learning Engineer</h3>
 <br>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://solved.ac/profile/0archlinux0)">
    <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
   </a>
@@ -55,12 +55,13 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white"/>
 </p> -->
-<h3 align ="center">📞 Contact</h3>
-<p align="center">
+<!-- <h3 align ="center">📞 Contact</h3> -->
+<h3>📞 Contact</h3>
+<!-- <p align="center"> -->
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a><br>
-</p>
-<p align ="center">
+<!-- </p> -->
+<!-- <p align ="center"> -->
   <a href="https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a>
   <br><br>
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"> -->
