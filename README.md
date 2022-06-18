@@ -12,7 +12,7 @@
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://solved.ac/profile/0archlinux0)">
    <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
   </a>
-</p>
+<!-- </p> -->
 
 <!-- <p align="center"> -->
 <!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
