@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white"/>
-</p>
+</p> -->
 <h3 align ="center">📞 Contact</h3>
 <p align="center">
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
@@ -62,7 +62,7 @@
 </p>
 <p align ="center">
   <a href="https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a>
-  <br><br> -->
+  <br><br>
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0archlinux0"></img> -->
 <!--    </a> -->
