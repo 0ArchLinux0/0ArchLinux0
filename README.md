@@ -9,6 +9,10 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
 
 <!-- <p align ="center">Machine Learning Engineer</p> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+ <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
 <div>
   ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0)
 </div>
