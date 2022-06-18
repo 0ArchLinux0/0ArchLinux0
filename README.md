@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a><br>
 </p>
 <p align ="center">
-  <a href="https://0archlinux0.github.io/](https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a>
+  <a href="https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a>
   <br><br>
 <!--   <a href="https://github.com/0ArchLinux0/0archlinux0"> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0archlinux0"></img> -->
