@@ -6,9 +6,11 @@
 <!-- </p>    -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
-<a align="center" href="https://github.com/0ArchLinux0/0archlinux0">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
-</a>
+<p align = "center">
+  <a href="https://github.com/0ArchLinux0/0archlinux0">
+    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
+  </a>
+</p>
 <br>
 <h3 align="center"> Machine Learning Engineer</h3>
 <br>
