@@ -49,6 +49,7 @@
 </p> -->
 <!-- <h3 align ="center">📞 Contact</h3> -->
 <!-- <h3>📞 Contact</h3> -->
+<h3 align="center"> Machine Learning Engineer</h3>
 <p align="center">
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/>
@@ -60,8 +61,8 @@
     <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
   </a>
 </p>
-<br>
-<h3 align="center"> Machine Learning Engineer</h3>
+<!-- <br> -->
+
 
 <!-- <p align ="center"> -->
 <!--   <a href="https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a> -->
