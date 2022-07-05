@@ -6,14 +6,6 @@
 <!-- </p>    -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/0archlinux0/count.svg) -->
-<p align = "center">
-  <a href="https://github.com/0ArchLinux0/0archlinux0">
-    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
-  </a>
-</p>
-<br>
-<h3 align="center"> Machine Learning Engineer</h3>
-<br>
 <!-- <p align="center"> -->
 <!--   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white"/> -->
@@ -62,6 +54,15 @@
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/>
   <a href="https://ilikechicken.tistory.com/"><img src="https://img.shields.io/badge/-blog-blue">
 </p>
+<br>
+<p align = "center">
+  <a href="https://github.com/0ArchLinux0/0archlinux0">
+    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
+  </a>
+</p>
+<br>
+<h3 align="center"> Machine Learning Engineer</h3>
+
 <!-- <p align ="center"> -->
 <!--   <a href="https://ilikechicken.tistory.com/" style="color:white;">visit my blog!</a> -->
 <!--   <br><br> -->
