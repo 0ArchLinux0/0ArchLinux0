@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="[https://github.com/anuraghazra/github-readme-stats](https://solved.ac/profile/0archlinux0)">
-   <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" />
+<!--    <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0archlinux0" /> -->
+    <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=0archlinux0" />
   </a>
 </p>
 <br>
