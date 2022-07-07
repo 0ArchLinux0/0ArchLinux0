@@ -51,7 +51,8 @@
 <!-- <h3>📞 Contact</h3> -->
 <h3 align="center"> Machine Learning Engineer</h3>
 <p align = "center">
-  <a href="https://github.com/0ArchLinux0/0archlinux0">
+  BOJ:
+  <a href="[https://github.com/0ArchLinux0/0archlinux0](https://solved.ac/profile/0archlinux0)">
     <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
   </a>
 </p>
