@@ -52,7 +52,7 @@
 <h3 align="center"> Machine Learning Engineer</h3>
 <p align = "center">
   BOJ:
-  <a href="[https://github.com/0ArchLinux0/0archlinux0](https://solved.ac/profile/0archlinux0)">
+  <a href="https://solved.ac/profile/0archlinux0">
     <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
   </a>
 </p>
