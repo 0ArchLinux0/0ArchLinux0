@@ -50,12 +50,12 @@
 <!-- <h3 align ="center">📞 Contact</h3> -->
 <!-- <h3>📞 Contact</h3> -->
 <h3 align="center"> Machine Learning Engineer</h3>
-<p align = "center">
+<!-- <p align = "center">
   BOJ:
   <a href="https://solved.ac/profile/0archlinux0">
     <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0archlinux0"></img>
   </a>
-</p>
+</p> -->
 <br>
 <p align="center">
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
