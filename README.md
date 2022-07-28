@@ -50,6 +50,7 @@
 <!-- <h3 align ="center">📞 Contact</h3> -->
 <!-- <h3>📞 Contact</h3> -->
 <h3 align="center"> Machine Learning Engineer</h3>
+[![cf](http://cf.leed.at?id=0archlinux0)](https://codeforces.com/profile/0archlinux0)
 <!-- <p align = "center">
   BOJ:
   <a href="https://solved.ac/profile/0archlinux0">
