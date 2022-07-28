@@ -61,6 +61,7 @@
   <a href="mailto:bluebluerize900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/minjun-park-536ba2213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/>
   <a href="https://ilikechicken.tistory.com/"><img src="https://img.shields.io/badge/-blog-blue">
+  <br>
     <a href="[https://github.com/0ArchLinux0/0archlinux0](https://codeforces.com/profile/0archlinux0)"><img src="http://cf.leed.at?id=0archlinux0"></img></a>
 </p>
 <!-- <br> -->
